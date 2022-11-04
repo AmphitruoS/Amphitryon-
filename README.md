@@ -9,3 +9,4 @@
 [![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeznNSO5x7GeCojIdYIJ20Q)
 [![social](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmphitruoS)
 [![social](https://img.shields.io/badge/Discord-5769fe?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MBwQweb2ba)
+[![social](https://img.shields.io/badge/Twitch-6f1072?style=for-thebadge&logo=twitch&logoColor=white)](https://www.twitch.tv/shakai_byo)
