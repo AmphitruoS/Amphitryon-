@@ -9,4 +9,4 @@
 [![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeznNSO5x7GeCojIdYIJ20Q)
 [![social](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmphitruoS)
 [![social](https://img.shields.io/badge/Discord-5769fe?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MBwQweb2ba)
-[![social](https://img.shields.io/badge/LinkedIn-0000ff?style=for-thebadge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/guilherme-sousa-andrade-812580261()
+[![social](https://img.shields.io/badge/LinkedIn-0000ff?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sousa-andrade-812580261)
