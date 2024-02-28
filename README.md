@@ -1,4 +1,4 @@
-### --- .-.. .--.- --..-- / . ..- / ... --- ..- / --- / ... --- ..- ... .-
+### recém formado em busca de oportunidades no mercado de trabalho digital
 
 <div align="center">
   <a href="https://github.com/AmphitruoS">
